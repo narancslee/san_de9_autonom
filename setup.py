@@ -24,6 +24,7 @@ setup(
     entry_points={
         'console_scripts': [
             'robot_simulator = san_de9_autonom.robot_simulator:main',
+            'waypoint_controller = san_de9_autonom.waypoint_controller:main',
         ],
     },
 )
