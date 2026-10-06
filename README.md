@@ -109,3 +109,9 @@ The expected topics include:
 /cmd_vel
 /odom
 ```
+
+## Example run
+
+The following screenshot shows a successful ROS 2 Humble clean-clone build and launch validation.
+
+![Successful ROS 2 Humble clean-clone build and launch](img/works01.png)
